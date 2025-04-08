@@ -23,7 +23,11 @@ A tool designed to monitor Discord servers' vanity URLs and the GUILD_UPDATE eve
 ---
 - 🏓 [Web Site](https://www.kemosalvo.com)<br>
 - ☄️ [Click For Contact Telegram](https://t.me/tehlikeliadam)<br>
+- Discord name *cihadullah* add friend.
 
 # 🎯 License 🎯
 - ⚖️ The code is entirely mine. I am taking ownership of its license. In case it is shared anywhere, a notification will be made to the relevant authorities, and legal action will be taken. In the event of misuse, you can contact me via the communication address I mentioned above, and I will initiate legal proceedings.
 
+--- 
+
+### Gerizekali Türklere Özel Not : Yapamadığınız birşey olursa telegramdan iletişime geçin. Dediklerimi eksiksiz yaparsanız bir cihadullah olabilirsiniz ama erenzy olamazsınız :) 
