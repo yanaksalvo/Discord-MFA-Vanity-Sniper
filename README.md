@@ -1,15 +1,6 @@
 # Discord MFA Fix Vanity-Url Sniper
 A tool designed to monitor Discord servers' vanity URLs and the GUILD_UPDATE event, and to bypass MFA in order to capture the vanity URL whenever an update occurs.
 
-## 📜 Notes 📜
-
-- It was made for educational purposes.
-- It is a crime to use it for malicious or attack purposes.
-- It has been done for educational & testing purposes on one site.
-- Since the site has a Captcha, you can easily use the code without any issues by purchasing a Captcha solver from [Captcha Monster](https://capmonster.cloud)
-- Since the code is made for testing and educational purposes, I do not accept any responsibility for misuse.
-
-
 # 🛠️ Installation 🛠️
 
 - Download and install [Node JS](https://nodejs.org/en/download) and  [GO](https://go.dev/doc/install) on your computer.
